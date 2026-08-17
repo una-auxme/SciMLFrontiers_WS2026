@@ -41,3 +41,14 @@ redaktionell geprüft und verantwortet.
 *This website was created with the support of artificial intelligence. Claude Code (Anthropic) was
 used to write and edit the page content; the workshop logo was generated with generative AI and is
 labelled accordingly. All content has been editorially reviewed.*
+
+## Quellen und Lizenzen
+
+Diese Website basiert auf [trudi-2026](https://github.com/trixi-framework/trudi-2026),
+veröffentlicht unter der MIT-Lizenz, Copyright © 2026 Gregor Gassner, Michael Schlottke-Lakemper.
+Der Quellcode dieser Website ist unter [SciMLFrontiers_WS2026](https://github.com/una-auxme/SciMLFrontiers_WS2026)
+verfügbar.
+
+*This website is based on [trudi-2026](https://github.com/trixi-framework/trudi-2026), published
+under the MIT licence, Copyright © 2026 Gregor Gassner, Michael Schlottke-Lakemper. The source code
+of this website is available at [SciMLFrontiers_WS2026](https://github.com/una-auxme/SciMLFrontiers_WS2026).*

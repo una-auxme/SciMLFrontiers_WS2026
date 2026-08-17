@@ -17,10 +17,17 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish
+      - name: Render website
+        run: quarto render website
+
+      - name: Add licence notices to the rendered site
+        run: cp LICENSE THIRD_PARTY_NOTICES.md website/_site/
+
+      - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           path: website
           target: gh-pages
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

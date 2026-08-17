@@ -14,7 +14,7 @@ If you would like to take part in writing the article, get access to the overlea
 
   <figure class="pkg-card">
     <a class="pkg-card-link"
-      href="mailto:Andreas.Hofmann@uni-a.de"
+      href="mailto:andreas.hofmann@uni-a.de"
       aria-label="Send an e-mail to Andreas Hofmann"></a>
     <img src="assets/hofmann.jpg" alt="Andreas Hofmann" class="portrait-top">
     <figcaption>
