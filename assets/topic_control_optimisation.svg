@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img"
+     aria-label="Gradient descent towards the minimum of an objective function">
+  <rect width="512" height="512" rx="28" fill="#F4F8FA"/>
+
+  <!-- objective landscape: quadratic Bezier, minimum at (256, 301) -->
+  <path d="M 88 132 Q 256 470 424 132" fill="none" stroke="#098880"
+        stroke-width="14" stroke-linecap="round" opacity="0.35"/>
+
+  <!-- descent steps, on the curve at t = 0.15, 0.25, 0.35 -->
+  <g fill="#098880">
+    <circle cx="138" cy="218" r="13" opacity="0.4"/>
+    <circle cx="172" cy="259" r="15" opacity="0.6"/>
+    <circle cx="206" cy="286" r="17" opacity="0.8"/>
+  </g>
+
+  <!-- step directions -->
+  <g stroke="#098880" stroke-width="7" stroke-linecap="round" opacity="0.75" fill="none">
+    <path d="M 152 231 L 160 241"/>
+    <path d="M 187 270 L 195 277"/>
+  </g>
+
+  <!-- minimum -->
+  <circle cx="256" cy="301" r="26" fill="#098880"/>
+
+  <!-- applied result -->
+  <path d="M 256 358 L 256 402" stroke="#098880" stroke-width="10"
+        stroke-linecap="round" opacity="0.55"/>
+  <path d="M 236 394 L 256 428 L 276 394 Z" fill="#098880" opacity="0.55"/>
+
+  <text x="256" y="470" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="24" fill="#098880" opacity="0.55">AI Generated Image</text>
+</svg>

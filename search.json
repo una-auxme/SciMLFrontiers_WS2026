@@ -1,24 +1,52 @@
 [
   {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venue",
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
     "section": "",
-    "text": "The SciML Frontiers 2026 workshop will take place at building W of the University of Augsburg, Germany.\nAll scheduled talks and plenary sessions will be held in lecture hall T.B.D. (room T.B.D.). Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks."
+    "text": "The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nThe article will be written collaboratively after the workshop and will build on the results of the four breakout sessions. All participants are invited to contribute as authors.\nIf you would like to take part in writing the article, get access to the overleaf project, or if you have any questions about the publication, please get in touch:\n\n\n \n\n\nAndreas Hofmann\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\nFeel free to contact me with any questions about the publication."
   },
   {
-    "objectID": "venue.html#address",
-    "href": "venue.html#address",
-    "title": "Venue",
-    "section": "Address",
-    "text": "Address\nUniversity of Augsburg\nDivision of Applied Informatics\nBuilding W\nAm Technologiezentrum 8\n86159 Augsburg\nGermany\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Programme",
+    "section": "",
+    "text": "All scheduled talks and plenary sessions will be held in lecture hall T.B.D.. Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks.\nSee Venue for maps and directions.\nThe agenda below is preliminary and may still change."
   },
   {
-    "objectID": "venue.html#evening-activities",
-    "href": "venue.html#evening-activities",
-    "title": "Venue",
-    "section": "Evening activities",
-    "text": "Evening activities\nOn Tuesday evening we will have a social event at the restaurant Die Tafeldecker, located inside the historic Fuggerei:\nDie Tafeldecker in der Fuggerei\nJakoberstraße 26\n86152 Augsburg\nGermany\n\nAbout the Fuggerei\nThe Fuggerei is the oldest social housing complex in the world still in use. It was founded in 1521 by the Augsburg merchant and banker Jakob Fugger “the Rich” as a settlement for citizens of Augsburg who had fallen into need through no fault of their own. Today it consists of 67 houses with 142 apartments, together with its own church and administrative buildings, enclosed by a wall with gates that are still locked at night.\nRemarkably, the rent has never been raised in more than 500 years: residents pay one Rhenish guilder per year — today €0.88 — plus a daily commitment to three prayers for the founder and his family. Around 150 people live there under these conditions. Several small museums on the grounds document the founding of the settlement, everyday life in it today, and its destruction during the Second World War.\n\n\nGetting there by tram\nFrom the workshop venue: take tram line 3 towards Augsburg Hauptbahnhof from the stop Innovationspark/LfU (about a 3-minute walk east of Building W) to Königsplatz, then change to tram line 1 towards Lechhausen Neuer Ostfriedhof and get off at the stop Fuggerei. The main entrance is directly at the stop.\nFrom the city centre or the main station: any tram or bus to Königsplatz, then line 1 towards Lechhausen Neuer Ostfriedhof to Fuggerei. The Fuggerei is also only a few minutes’ walk from the city centre.\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
+    "objectID": "program.html#tuesday-22nd-september-2026",
+    "href": "program.html#tuesday-22nd-september-2026",
+    "title": "Programme",
+    "section": "Tuesday, 22nd September 2026",
+    "text": "Tuesday, 22nd September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\n10:00–10:15\nWelcome & Programme Introduction\n\n\n10:15–11:00\nKeynote 1T.B.D.\n\n\n11:00–11:15\nSession Overview\n\n\n11:15–12:00\n2 PresentationsT.B.D.\n\n\n12:00–13:00\nLunch break and session alignment\n\n\n13:00–14:40\nBreakout Session 1\n\n\n14:40–15:00\n1 PresentationT.B.D.\n\n\n15:00–15:15\nCoffee break\n\n\n15:15–16:45\nBreakout Session 2\n\n\n16:45–17:00\nCoffee break\n\n\n17:00–17:20\n1 PresentationT.B.D.\n\n\n17:20–18:00\nStatus Sync\n\n\n19:30–22:00\nSocial event / dinnerDie Tafeldecker in der Fuggerei (see Venue)"
+  },
+  {
+    "objectID": "program.html#wednesday-23rd-september-2026",
+    "href": "program.html#wednesday-23rd-september-2026",
+    "title": "Programme",
+    "section": "Wednesday, 23rd September 2026",
+    "text": "Wednesday, 23rd September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\n08:00–08:15\nWelcome reception & coffee\n\n\n08:15–08:30\nOpening Remarks & Day 2 Objectives\n\n\n08:30–09:15\nKeynote 2T.B.D.\n\n\n09:15–10:15\nBreakout Session 3\n\n\n10:15–10:30\nCoffee break\n\n\n10:30–11:15\n2 PresentationsT.B.D.\n\n\n11:15–12:15\nBreakout Session 4\n\n\n12:15–13:00\nLunch break\n\n\n13:00–13:45\nFinal Result Preparation\n\n\n13:45–14:45\nPresentation of Breakout Findings\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nStrategic Synthesis & Workshop Closing"
+  },
+  {
+    "objectID": "program.html#session-types",
+    "href": "program.html#session-types",
+    "title": "Programme",
+    "section": "Session types",
+    "text": "Session types\nThe programme combines invited keynotes, contributed presentations, and collaborative breakout sessions:\n\nKeynotes have a 45-minute slot and set the stage for the discussion of the day.\nPresentations are contributed talks of roughly 20 minutes each.\nBreakout sessions are the core of the workshop. In parallel sessions, small groups work on the four research directions, with the goal of critically assessing progress since the original priority research directions and identifying open challenges.\nPresentation of breakout findings brings the groups back together to report their results to all participants.\nOrganisational and collaborative slots — session overview, session alignment, status sync, final result preparation, and the social event — are used to coordinate between the groups and to prepare the joint outcome of the workshop.\n\nThe findings collected during the breakout sessions form the basis of the joint scientific article that will be prepared after the workshop."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SciML Frontiers: Progress, Evolution, and Future Directions — Workshop 2026",
+    "section": "",
+    "text": "22–23 September 2026 • Augsburg, Germany\n\n\n\nScientific Machine Learning (SciML), the fusion of scientific computing and machine learning algorithms, has proven to be a transformative force in academia and is rapidly establishing a firm foothold in industrial applications. The foundational 2018 SciML workshop outlined six priority research directions (PRDs) for the nascent field of SciML, anchoring future development around critical pillars such as domain awareness, robustness, and interpretability. The SciML landscape has evolved profoundly over the past seven years. Considering these advancements, this workshop, hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg, convenes researchers from diverse disciplines to re-evaluate the original priorities within the context of current technological frontiers. Through expert keynotes, technical presentations, and collaborative breakout sessions, participants will share practical insights and critically analyse current progress and emerging challenges within the field. Our primary objective is to assess the trajectory of the original PRDs and collaboratively shape the future research agenda for SciML. The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nWe have synthesised the original six PRDs into four focused research directions, which participants will explore deeply during the breakout sessions.\n\n\n\n\n\nNumerical Foundation of SciML\n\n\nDiscretisation, Stability and Convergence\n\n\n\n\n\n\n\nBeyond prediction\n\n\nControl, Optimisation and Application\n\n\n\n\n\n\n\nAutomation and Scalability in SciML\n\n\nFrom Prototype to Production Scale\n\n\n\n\n\n\n\nDomain Awareness and Interpretability\n\n\nPhysical Priors, Explainability and Trust\n\n\n\n\nThe event is organised by Prof. Lars Mikelsons, Prof. Michael Schlottke-Lakemper and Andreas Hofmann (see Organisers), and is hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg."
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organisers",
+    "section": "",
+    "text": "Prof. Lars Mikelsons\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\n\n\n \n\n\nProf. Michael Schlottke-Lakemper\n\n\nHigh-Performance Scientific ComputingUniversity of Augsburg\n\n\n\n\n \n\n\nAndreas Hofmann\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\nFeel free to contact me with any questions about the workshop."
   },
   {
     "objectID": "imprint.html",
@@ -63,45 +91,24 @@
     "text": "Hinweis zur Nutzung Künstlicher Intelligenz\nDiese Website wurde mit Unterstützung Künstlicher Intelligenz erstellt. Für das Erstellen und Bearbeiten der Seiteninhalte wurde Claude Code (Anthropic) eingesetzt; das Workshop-Logo wurde mit generativer KI erzeugt und ist im Bild entsprechend gekennzeichnet. Alle Inhalte wurden redaktionell geprüft und verantwortet.\nThis website was created with the support of artificial intelligence. Claude Code (Anthropic) was used to write and edit the page content; the workshop logo was generated with generative AI and is labelled accordingly. All content has been editorially reviewed."
   },
   {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
     "section": "",
-    "text": "Prof. Lars Mikelsons (University of Augsburg)\nProf. Michael Schlottke-Lakemper (University of Augsburg)\n\nFor questions please contact: Andreas Hofmann"
+    "text": "Building W, University of Augsburg\nThe SciML Frontiers 2026 workshop will take place at building W of the University of Augsburg, Germany.\nAll scheduled talks and plenary sessions will be held in lecture hall T.B.D. (room T.B.D.). Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SciML Frontiers: Progress, Evolution, and Future Directions — Workshop 2026",
-    "section": "",
-    "text": "22–23 September 2026 • Augsburg, Germany\n\n\n\nScientific Machine Learning (SciML), the fusion of scientific computing and machine learning algorithms, has proven to be a transformative force in academia and is rapidly establishing a firm foothold in industrial applications. A foundational 2018 workshop outlined six priority research directions (PRDs) for the nascent field of SciML, anchoring future development around critical pillars such as domain awareness, robustness, and interpretability. The SciML landscape has evolved profoundly over the past seven years. Considering these advancements, this workshop, hosted by the Center of Advanced Analytics and Predictive Sciences at the University of Augsburg, convenes researchers from diverse disciplines to re-evaluate the original priorities within the context of current technological frontiers. Through expert keynotes, technical presentations, and collaborative breakout sessions, participants will share practical insights and critically analyze current progress and emerging challenges within the field. Our primary objective is to assess the trajectory of the original PRDs and collaboratively shape the future research agenda for SciML. The insights generated during this two-day event will be synthesized into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nWe have synthesized the original six PRDs into four focused research directions, which participants will explore deeply during the breakout sessions.\n\n\n \n\n\nNumerical Foundation of SciML\n\n\nt.b.d.\n\n\n\n\n \n\n\nBeyond prediction\n\n\nControl, Optimization and Application\n\n\n\n\n \n\n\nAutomation and Scalability in SciML\n\n\nt.b.d.\n\n\n\n\n \n\n\nDomain Awareness and Interpretability\n\n\nt.b.d.\n\n\n\n\nThe event is organised by Prof. Lars Mikelsons and Prof. Michael Schlottke-Lakemper and hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg."
+    "objectID": "venue.html#address",
+    "href": "venue.html#address",
+    "title": "Venue",
+    "section": "Address",
+    "text": "Address\nUniversity of Augsburg\nDivision of Applied Informatics\nBuilding W\nAm Technologiezentrum 8\n86159 Augsburg\nGermany\n\n\n\n\n\nDirections (OpenStreetMap) | Directions (Google Maps)"
   },
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "All scheduled talks and plenary sessions will be held in lecture hall T.B.D. (room T.B.D.). Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration.\nSee Venue for maps and directions.\nThe agenda below is preliminary and may still change. See below for a description of the different session types."
-  },
-  {
-    "objectID": "program.html#tuesday-22nd-september-2026",
-    "href": "program.html#tuesday-22nd-september-2026",
-    "title": "Program",
-    "section": "Tuesday, 22nd September 2026",
-    "text": "Tuesday, 22nd September 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n10:00–10:15\nWelcome & Program Introduction\n\n\n10:15–11:00\nKeynote 1T.B.D.\n\n\n11:00–11:15\nSession Overview\n\n\n11:15–12:00\n2 PresentationsT.B.D.\n\n\n12:00–13:00\nLunch break and session alignment\n\n\n13:00–14:40\nBreakout Session 1\n\n\n14:40–15:00\n1 PresentationT.B.D.\n\n\n15:00–15:15\nCoffee break\n\n\n15:15–16:45\nBreakout Session 2\n\n\n16:45–17:00\nCoffee break\n\n\n17:00–17:20\n1 PresentationT.B.D.\n\n\n17:20–18:00\nStatus Sync\n\n\n19:30–22:00\nSocial event / dinnerDie Tafeldecker in der Fuggerei (see Venue)"
-  },
-  {
-    "objectID": "program.html#wednesday-23rd-september-2026",
-    "href": "program.html#wednesday-23rd-september-2026",
-    "title": "Program",
-    "section": "Wednesday, 23rd September 2026",
-    "text": "Wednesday, 23rd September 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:00–08:15\nWelcome reception & coffee\n\n\n08:15–08:30\nOpening Remarks & Day 2 Objectives\n\n\n08:30–09:15\nKeynote 2T.B.D.\n\n\n09:15–10:15\nBreakout Session 3\n\n\n10:15–10:30\nCoffee break\n\n\n10:30–11:15\n2 PresentationsT.B.D.\n\n\n11:15–12:15\nBreakout Session 4\n\n\n12:15–13:00\nLunch break\n\n\n13:00–13:45\nFinal Result Preparation\n\n\n13:45–14:45\nPresentation of Breakout Findings\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nStrategic Synthesis & Workshop Closing"
-  },
-  {
-    "objectID": "program.html#session-types",
-    "href": "program.html#session-types",
-    "title": "Program",
-    "section": "Session types",
-    "text": "Session types\nThe program combines invited keynotes, contributed presentations, and collaborative breakout sessions:\n\nKeynotes have a 45-minute slot and set the stage for the discussion of the day.\nPresentations are contributed talks of roughly 20 minutes each, thematically related to the breakout sessions they precede or follow.\nBreakout sessions are the core of the workshop. Each session works on one of the four research directions in a small group, with the goal of critically assessing progress since the original priority research directions and identifying open challenges.\nPresentation of breakout findings brings the groups back together to report their results to all participants.\nOrganizational and collaborative slots — session overview, session alignment, status sync, final result preparation, and the social event — are used to coordinate between the groups and to prepare the joint outcome of the workshop.\n\nThe findings collected during the breakout sessions form the basis of the joint scientific article that will be prepared after the workshop."
+    "objectID": "venue.html#evening-activity",
+    "href": "venue.html#evening-activity",
+    "title": "Venue",
+    "section": "Evening activity",
+    "text": "Evening activity\nOn Tuesday evening we will have a social event at T.B.D."
   }
 ]
