@@ -1,0 +1,7 @@
+---
+title: "Organizers"
+---
+- [Prof. Lars Mikelsons](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/imech/) (University of Augsburg)
+- [Prof. Michael Schlottke-Lakemper](https://www.uni-augsburg.de/en/fakultaet/mntf/math/prof/hpsc/) (University of Augsburg)
+
+**For questions please contact:** [Andreas Hofmann](mailto:Andreas.Hofmann@uni-a.de)

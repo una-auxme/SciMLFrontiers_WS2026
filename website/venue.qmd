@@ -1,0 +1,64 @@
+---
+title: "Venue"
+---
+
+![](assets/placeholder.png){fig-alt="Building W of the University of Augsburg" width=425}
+
+The SciML Frontiers 2026 workshop will take place at building W of the University of Augsburg, Germany.
+
+All scheduled talks and plenary sessions will be held in lecture hall T.B.D. (room T.B.D.). Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks.
+
+## Address
+University of Augsburg\
+Division of Applied Informatics\
+Building W\
+Am Technologiezentrum 8\
+86159 Augsburg\
+Germany
+
+<iframe
+  width="425"
+  height="350"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=10.8934484%2C48.3266360%2C10.8964984%2C48.3281620&amp;layer=mapnik&amp;marker=48.3273990%2C10.8949734"
+  style="border: 1px solid black">
+</iframe>
+<small>
+  <a href="https://www.openstreetmap.org/directions?from=&to=48.327399%2C10.894973" target="_blank">Directions (OpenStreetMap)</a> |
+  <a href="https://www.google.com/maps/dir/?api=1&amp;destination=48.327399%2C10.894973" target="_blank">Directions (Google Maps)</a>
+</small>
+
+## Evening activities
+On Tuesday evening we will have a social event at the restaurant *Die Tafeldecker*, located inside the historic Fuggerei:
+
+Die Tafeldecker in der Fuggerei\
+Jakoberstraße 26\
+86152 Augsburg\
+Germany
+
+### About the Fuggerei
+
+The [Fuggerei](https://www.fugger.de/en/fuggerei) is the oldest social housing complex in the world still in use. It was
+founded in 1521 by the Augsburg merchant and banker Jakob Fugger "the Rich" as a settlement for citizens of Augsburg who
+had fallen into need through no fault of their own. Today it consists of 67 houses with 142 apartments, together with its
+own church and administrative buildings, enclosed by a wall with gates that are still locked at night.
+
+Remarkably, the rent has never been raised in more than 500 years: residents pay one Rhenish guilder per year — today
+€0.88 — plus a daily commitment to three prayers for the founder and his family. Around 150 people live there under these
+conditions. Several small museums on the grounds document the founding of the settlement, everyday life in it today, and
+its destruction during the Second World War.
+
+### Getting there by tram
+
+**From the workshop venue:** take tram line **3** towards *Augsburg Hauptbahnhof* from the stop **Innovationspark/LfU**
+(about a 3-minute walk east of Building W) to **Königsplatz**, then change to tram line **1** towards *Lechhausen Neuer
+Ostfriedhof* and get off at the stop **Fuggerei**. The main entrance is directly at the stop.
+
+**From the city centre or the main station:** any tram or bus to **Königsplatz**, then line **1** towards *Lechhausen
+Neuer Ostfriedhof* to **Fuggerei**. The Fuggerei is also only a few minutes' walk from the city centre.
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=10.9023042%2C48.3689301%2C10.9053562%2C48.3704561&amp;layer=mapnik&amp;marker=48.3696931%2C10.9038302" style="border: 1px solid black">
+</iframe>
+<small>
+  <a href="https://www.openstreetmap.org/directions?from=&to=48.369693%2C10.903830" target="_blank">Directions (OpenStreetMap)</a> |
+  <a href="https://www.google.com/maps/dir/?api=1&amp;destination=48.369693%2C10.903830" target="_blank">Directions (Google Maps)</a>
+</small>

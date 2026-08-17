@@ -1,0 +1,74 @@
+---
+title: "Program"
+---
+
+All scheduled talks and plenary sessions will be held in lecture hall **T.B.D.** (room T.B.D.).
+Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The **foyer of
+Building W** will serve as the catering area for lunch and coffee breaks and as an informal
+workspace for discussions and small-group collaboration.
+
+See [Venue](venue.qmd) for maps and directions.
+
+The agenda below is **preliminary** and may still change.
+See [below](#session-types) for a description of the different session types.
+
+## Tuesday, 22nd September 2026
+
+| Time  | Program |
+|-------|---------|
+| 10:00–10:15 | <span id="day1-opening" class="slot neutral">**Welcome & Program Introduction**</span> |
+| 10:15–11:00 | <span id="day1-keynote" class="slot plenary">**Keynote 1**<br>T.B.D.</span> |
+| 11:00–11:15 | <span id="day1-session-overview" class="slot open">**Session Overview**</span> |
+| 11:15–12:00 | <span id="day1-presentations-1" class="slot contributed">**2 Presentations**<br>T.B.D.</span> |
+| 12:00–13:00 | *Lunch break and session alignment* |
+| 13:00–14:40 | <span id="day1-breakout-1" class="slot handson">**Breakout Session 1**</span> |
+| 14:40–15:00 | <span id="day1-presentations-2" class="slot contributed">**1 Presentation**<br>T.B.D.</span> |
+| 15:00–15:15 | *Coffee break* |
+| 15:15–16:45 | <span id="day1-breakout-2" class="slot handson">**Breakout Session 2**</span> |
+| 16:45–17:00 | *Coffee break* |
+| 17:00–17:20 | <span id="day1-presentations-3" class="slot contributed">**1 Presentation**<br>T.B.D.</span> |
+| 17:20–18:00 | <span id="day1-status-sync" class="slot open">**Status Sync**</span> |
+| 19:30–22:00 | <span id="day1-social" class="slot open">**Social event / dinner**<br>Die Tafeldecker in der Fuggerei (see [Venue](venue.qmd#evening-activities))</span> |
+
+: {tbl-colwidths="[18,82]"}
+
+## Wednesday, 23rd September 2026
+
+| Time  | Program |
+|-------|---------|
+| 08:00–08:15 | *Welcome reception & coffee* |
+| 08:15–08:30 | <span id="day2-opening" class="slot neutral">**Opening Remarks & Day 2 Objectives**</span> |
+| 08:30–09:15 | <span id="day2-keynote" class="slot plenary">**Keynote 2**<br>T.B.D.</span> |
+| 09:15–10:15 | <span id="day2-breakout-3" class="slot handson">**Breakout Session 3**</span> |
+| 10:15–10:30 | *Coffee break* |
+| 10:30–11:15 | <span id="day2-presentations" class="slot contributed">**2 Presentations**<br>T.B.D.</span> |
+| 11:15–12:15 | <span id="day2-breakout-4" class="slot handson">**Breakout Session 4**</span> |
+| 12:15–13:00 | *Lunch break* |
+| 13:00–13:45 | <span id="day2-result-prep" class="slot open">**Final Result Preparation**</span> |
+| 13:45–14:45 | <span id="day2-findings" class="slot oneidea">**Presentation of Breakout Findings**</span> |
+| 14:45–15:00 | *Coffee break* |
+| 15:00–15:45 | <span id="day2-closing" class="slot neutral">**Strategic Synthesis & Workshop Closing**</span> |
+
+: {tbl-colwidths="[18,82]"}
+
+## Session types
+
+The program combines invited keynotes, contributed presentations, and collaborative breakout
+sessions:
+
+* <span class="slotcat plenary">**Keynotes**</span> have a 45-minute slot and set the stage for the
+  discussion of the day.
+* <span class="slotcat contributed">**Presentations**</span> are contributed talks of roughly 20
+  minutes each, thematically related to the breakout sessions they precede or follow.
+* <span class="slotcat handson">**Breakout sessions**</span> are the core of the workshop. Each
+  session works on one of the [four research directions](index.qmd) in a small group, with the goal
+  of critically assessing progress since the original priority research directions and identifying
+  open challenges.
+* <span class="slotcat oneidea">**Presentation of breakout findings**</span> brings the groups back
+  together to report their results to all participants.
+* <span class="slotcat open">**Organizational and collaborative slots**</span> — session overview,
+  session alignment, status sync, final result preparation, and the social event — are used to
+  coordinate between the groups and to prepare the joint outcome of the workshop.
+
+The findings collected during the breakout sessions form the basis of the joint scientific article
+that will be prepared after the workshop.

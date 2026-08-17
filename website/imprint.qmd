@@ -1,0 +1,43 @@
+---
+title: "Impressum"
+toc: false
+---
+
+Lehrstuhl für Mechatronik, Universität Augsburg\
+Am Technologiezentrum 8\
+86159 Augsburg
+
+**Vertreten durch:**\
+Prof. Dr.-Ing. Lars Mikelsons
+
+## Kontakt
+
+Telefon: +49 (0) 821 598 69270\
+E-Mail: [lars.mikelsons@uni-a.de](mailto:lars.mikelsons@uni-a.de)
+
+## Umsatzsteuer-ID
+
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\
+DE192097107
+
+## Redaktionell verantwortlich
+
+Prof. Dr.-Ing. Lars Mikelsons\
+Am Technologiezentrum 8\
+86159 Augsburg
+
+## Verbraucherstreitbeilegung/Universalschlichtungsstelle
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
+Verbraucherschlichtungsstelle teilzunehmen.
+
+## Hinweis zur Nutzung Künstlicher Intelligenz
+
+Diese Website wurde mit Unterstützung Künstlicher Intelligenz erstellt. Für das Erstellen und
+Bearbeiten der Seiteninhalte wurde Claude Code (Anthropic) eingesetzt; das Workshop-Logo wurde mit
+generativer KI erzeugt und ist im Bild entsprechend gekennzeichnet. Alle Inhalte wurden
+redaktionell geprüft und verantwortet.
+
+*This website was created with the support of artificial intelligence. Claude Code (Anthropic) was
+used to write and edit the page content; the workshop logo was generated with generative AI and is
+labelled accordingly. All content has been editorially reviewed.*

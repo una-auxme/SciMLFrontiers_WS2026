@@ -1,0 +1,288 @@
+/* centers the whole framed unit horizontally */
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+/* frame that hugs content */
+.logo-box {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  padding: 18px 22px;
+  margin: 1.5rem 0;
+
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.06);
+}
+
+.logo-caption {
+  margin-top: 10px;
+}
+
+.logo-box img{
+  display: block;   /* prevents baseline gaps */
+}
+
+.pkg-grid{
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+  align-items: stretch;
+  margin: 1.25rem 0 1.75rem 0;
+}
+
+.pkg-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+
+  padding: 14px 14px 12px 14px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.06);
+
+  margin: 0; /* override Quarto figure margin */
+  transition: all .12s ease-in-out;   /* smooth animation */
+  position: relative;
+}
+
+.pkg-card:hover{
+  box-shadow: 0 4px 14px rgba(0,0,0,.10);
+  border-color: #cfcfcf;
+  transform: translateY(-1px);
+}
+
+/* create a fixed square logo slot */
+.pkg-card img{
+  width: 100%;
+  height: 150px;          /* slot height */
+  max-width: 150px;       /* slot width = height → square */
+  object-fit: contain;    /* keep aspect ratio inside slot */
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+/* align text consistently */
+.pkg-card figcaption{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 3.2em;      /* aligns captions across cards */
+}
+
+/* invisible full-card link */
+.pkg-card-link{
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: 12px;
+}
+
+.pkg-title{
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: 700;
+  text-decoration: none;
+  position: relative;
+}
+
+.pkg-subtitle{
+  margin-top: 2px;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+/* responsive */
+@media (max-width: 992px){
+  .pkg-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 576px){
+  .pkg-grid{ grid-template-columns: 1fr; }
+  .pkg-card img{ max-width: 260px; }
+}
+
+.pkg-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;           /* makes the link fill the grid cell */
+}
+
+.pkg-link:focus-visible .pkg-card,
+.pkg-link:hover .pkg-card{
+  box-shadow: 0 4px 14px rgba(0,0,0,.10);
+  border-color: #cfcfcf;
+  transform: translateY(-1px);
+  transition: all .12s ease-in-out;
+}
+
+a .bi{
+  font-size: 0.95rem;
+  vertical-align: -0.05em;
+  opacity: 0.7;
+}
+a:hover .bi{
+  opacity: 1;
+}
+
+/* Inline “legend” pills in the intro text */
+.slotcat{
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+}
+
+/* Table cell wrappers (pipe tables -> use span, not div) */
+.slot{
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border-left: 3px solid;
+  border-radius: 6px;
+}
+
+/* Plenary: deep Trixi-ish blue */
+.slot.plenary, .slotcat.plenary{
+  background: rgba(30, 64, 175, 0.06);
+  border-color: rgba(30, 64, 175, 0.22);
+  border-left-color: rgba(30, 64, 175, 0.45);
+}
+
+/* Contributed: cool indigo/blue-gray */
+.slot.contributed, .slotcat.contributed{
+  background: rgba(51, 65, 85, 0.05);
+  border-color: rgba(51, 65, 85, 0.18);
+  border-left-color: rgba(51, 65, 85, 0.35);
+}
+
+/* One-idea: magenta/pink accent */
+.slot.oneidea, .slotcat.oneidea{
+  background: rgba(236, 72, 153, 0.06);
+  border-color: rgba(236, 72, 153, 0.20);
+  border-left-color: rgba(236, 72, 153, 0.40);
+}
+
+/* Hands-on: teal accent */
+.slot.handson, .slotcat.handson{
+  background: rgba(20, 184, 166, 0.06);
+  border-color: rgba(20, 184, 166, 0.20);
+  border-left-color: rgba(20, 184, 166, 0.40);
+}
+
+/* Open/free: warm yellow/orange accent */
+.slot.open, .slotcat.open{
+  background: rgba(234, 179, 8, 0.07);
+  border-color: rgba(234, 179, 8, 0.22);
+  border-left-color: rgba(234, 179, 8, 0.45);
+}
+
+/* Opening/closing: neutral */
+.slot.neutral {
+  color: #000000;
+  font-style: normal;
+  background-color: #fff;
+  border-left-color: #888;
+}
+
+.overview-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85em;
+  table-layout: fixed;
+}
+.overview-table th,
+.overview-table td {
+  border: 1px solid #dee2e6;
+  padding: 0.35em 0.45em;
+  vertical-align: top;
+  text-align: left;
+  line-height: 1.3;
+}
+.overview-table th {
+  background: #f8f9fa;
+  font-weight: 600;
+  text-align: center;
+}
+.overview-table th a {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+.overview-table th a:hover {
+  text-decoration: underline;
+}
+.overview-table .col-time {
+  width: 7%;
+  text-align: center;
+  color: #555;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+.overview-table .neutral {
+  color: #555;
+  font-style: italic;
+}
+.overview-table .slot.neutral-opening {
+  color: #000 !important;
+  font-style: normal !important;
+  margin-bottom: 0.3em;
+  background-color: #fff;
+  border-left-color: #888;
+}
+.overview-table .slot.neutral-closing {
+  color: #000 !important;
+  font-style: normal !important;
+  margin-top: 0.3em;
+  background-color: #fff;
+  border-left-color: #888;
+}
+/* Make .slot spans fill the full cell width */
+.overview-table .slot {
+  display: block;
+  padding: 0.2em 0.5em;
+  font-size: 0.9em;
+  font-weight: 600;
+  border-radius: 3px;
+}
+
+.overview-table .slot a,
+.overview-table a.slot {
+  color: inherit;
+  text-decoration: none;
+}
+.overview-table a.slot:hover {
+  text-decoration: underline;
+}
+
+.overview-back {
+  display: block;
+  text-align: right;
+  font-size: 0.85em;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
+  text-decoration: none;
+  color: #888;
+}
+.overview-back:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .overview-table {
+    font-size: 0.75em;
+  }
+  .overview-table .col-time {
+    display: none;
+  }
+}

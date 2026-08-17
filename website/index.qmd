@@ -1,0 +1,89 @@
+---
+title: "SciML Frontiers: Progress, Evolution, and Future Directions — Workshop 2026"
+---
+
+<div class="logo-wrapper">
+  <figure class="logo-box">
+    <img src="assets/workshop_logo_AI.png" alt="SciML Frontiers 2026 logo" style="width: 420px; height: auto;">
+    <figcaption class="logo-caption">
+      <strong>22–23 September 2026 • Augsburg, Germany</strong>
+    </figcaption>
+  </figure>
+</div>
+
+
+Scientific Machine Learning (SciML), the fusion of scientific computing and machine learning algorithms, 
+has proven to be a transformative force in academia and is rapidly establishing a firm foothold in industrial applications. 
+A [foundational 2018 workshop](https://doi.org/10.2172/1478744) outlined six priority research directions (PRDs) for the nascent field of SciML, 
+anchoring future development around critical pillars such as domain awareness, robustness, and interpretability.
+The SciML landscape has evolved profoundly over the past seven years. Considering these advancements, this workshop, hosted by 
+the Center of Advanced Analytics and Predictive Sciences at the University of Augsburg, convenes researchers from diverse disciplines 
+to re-evaluate the original priorities within the context of current technological frontiers. Through expert keynotes, technical presentations, 
+and collaborative breakout sessions, participants will share practical insights and critically analyze current progress and emerging challenges within the field. 
+Our primary objective is to assess the trajectory of the original PRDs and collaboratively shape the future research agenda for SciML.
+The insights generated during this two-day event will be synthesized into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.
+
+We have synthesized the original six PRDs into four focused research directions, which participants will explore deeply during the breakout sessions.
+
+<div class="pkg-grid">
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/Trixi.jl"
+      target="_blank" rel="noopener"
+      aria-label="Trixi.jl on GitHub"></a>
+    <img src="assets/placeholder.png" alt="Trixi.jl logo">
+    <figcaption>
+      <div class="pkg-title">Numerical Foundation of SciML</div>
+      <div class="pkg-subtitle">t.b.d.</div>
+    </figcaption>
+  </figure>
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/TrixiShallowWater.jl"
+      target="_blank" rel="noopener"
+      aria-label="TrixiShallowWater.jl on GitHub"></a>
+    <img src="assets/placeholder.png" alt="Trixi.jl logo">
+    <figcaption>
+      <div class="pkg-title">Beyond prediction</div>
+      <div class="pkg-subtitle">Control, Optimization and Application</div>
+    </figcaption>
+  </figure>
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/TrixiAtmo.jl"
+      target="_blank" rel="noopener"
+      aria-label="TrixiAtmo.jl on GitHub"></a>
+    <img src="assets/placeholder.png" alt="Trixi.jl logo">
+    <figcaption>
+      <div class="pkg-title">Automation and Scalability in SciML</div>
+      <div class="pkg-subtitle">t.b.d.</div>
+    </figcaption>
+  </figure>
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/TrixiParticles.jl"
+      target="_blank" rel="noopener"
+      aria-label="TrixiParticles.jl on GitHub"></a>
+    <img src="assets/placeholder.png" alt="Trixi.jl logo">
+    <figcaption>
+      <div class="pkg-title">Domain Awareness and Interpretability</div>
+      <div class="pkg-subtitle">t.b.d.</div>
+    </figcaption>
+  </figure>
+
+</div>
+
+The event is organised  by [Prof. Lars Mikelsons](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/imech/) and [Prof. Michael Schlottke-Lakemper](https://www.uni-augsburg.de/en/fakultaet/mntf/math/prof/hpsc/)
+ and hosted by the [Centre for Advanced Analytics and Predictive Sciences](https://www.uni-augsburg.de/en/forschung/einrichtungen/institute/caaps/) at the University of Augsburg.
+
+
+
+<div style="display:flex; justify-content:center; align-items:center; margin-top:2em;">
+  <img src="assets/UNIA.png"
+       alt="University of Augsburg logo"
+       style="height:75px; margin-right:50px;">
+</div>

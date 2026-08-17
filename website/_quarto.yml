@@ -1,0 +1,31 @@
+project:
+  type: website
+website:
+  title: "SciML Frontiers Workshop 2026"
+  navbar:
+    logo: assets/workshop_logo_256x256_AI.png
+    left:
+      - href: index.qmd
+        text: Home
+      - program.qmd
+      - venue.qmd
+      - organizers.qmd
+  page-footer:
+    left: "Created with the support of AI (Claude Code)."
+    right:
+      - href: organizers.qmd
+        text: Contact
+      - href: imprint.qmd
+        text: Imprint
+      - href: https://www.uni-augsburg.de/de/impressum/datenschutz/
+        text: Privacy
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+    include-in-header:
+      text: |
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+execute:
+  freeze: auto
