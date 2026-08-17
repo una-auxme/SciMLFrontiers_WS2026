@@ -1,0 +1,27 @@
+---
+title: "Publication"
+toc: false
+---
+
+The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.
+
+The article will be written collaboratively after the workshop and will build on the results of the
+four breakout sessions. All participants are invited to contribute as authors.
+
+If you would like to take part in writing the article, get access to the overleaf project, or if you have any questions about the publication, please get in touch:
+
+<div class="people-grid single">
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="mailto:Andreas.Hofmann@uni-a.de"
+      aria-label="Send an e-mail to Andreas Hofmann"></a>
+    <img src="assets/hofmann.jpg" alt="Andreas Hofmann" class="portrait-top">
+    <figcaption>
+      <div class="pkg-title">Andreas Hofmann</div>
+      <div class="pkg-subtitle">Chair of Mechatronics<br>University of Augsburg</div>
+      <div class="pkg-contact">Feel free to contact me with any questions about the publication.</div>
+    </figcaption>
+  </figure>
+
+</div>

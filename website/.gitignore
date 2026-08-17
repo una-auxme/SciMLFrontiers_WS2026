@@ -1,3 +1,6 @@
 /.quarto/
 /_site/
 **/*.quarto_ipynb
+
+# local working copies, not part of the site
+*_backup.qmd

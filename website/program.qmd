@@ -1,22 +1,20 @@
 ---
-title: "Program"
+title: "Programme"
 ---
 
-All scheduled talks and plenary sessions will be held in lecture hall **T.B.D.** (room T.B.D.).
+All scheduled talks and plenary sessions will be held in lecture hall **T.B.D.**.
 Four adjacent seminar rooms (T.B.D. – T.B.D.) will host the breakout sessions. The **foyer of
-Building W** will serve as the catering area for lunch and coffee breaks and as an informal
-workspace for discussions and small-group collaboration.
+Building W** will serve as the catering area for lunch and coffee breaks.
 
 See [Venue](venue.qmd) for maps and directions.
 
 The agenda below is **preliminary** and may still change.
-See [below](#session-types) for a description of the different session types.
 
 ## Tuesday, 22nd September 2026
 
-| Time  | Program |
+| Time  | Programme |
 |-------|---------|
-| 10:00–10:15 | <span id="day1-opening" class="slot neutral">**Welcome & Program Introduction**</span> |
+| 10:00–10:15 | <span id="day1-opening" class="slot neutral">**Welcome & Programme Introduction**</span> |
 | 10:15–11:00 | <span id="day1-keynote" class="slot plenary">**Keynote 1**<br>T.B.D.</span> |
 | 11:00–11:15 | <span id="day1-session-overview" class="slot open">**Session Overview**</span> |
 | 11:15–12:00 | <span id="day1-presentations-1" class="slot contributed">**2 Presentations**<br>T.B.D.</span> |
@@ -34,7 +32,7 @@ See [below](#session-types) for a description of the different session types.
 
 ## Wednesday, 23rd September 2026
 
-| Time  | Program |
+| Time  | Programme |
 |-------|---------|
 | 08:00–08:15 | *Welcome reception & coffee* |
 | 08:15–08:30 | <span id="day2-opening" class="slot neutral">**Opening Remarks & Day 2 Objectives**</span> |
@@ -53,22 +51,22 @@ See [below](#session-types) for a description of the different session types.
 
 ## Session types
 
-The program combines invited keynotes, contributed presentations, and collaborative breakout
+The programme combines invited keynotes, contributed presentations, and collaborative breakout
 sessions:
 
 * <span class="slotcat plenary">**Keynotes**</span> have a 45-minute slot and set the stage for the
   discussion of the day.
 * <span class="slotcat contributed">**Presentations**</span> are contributed talks of roughly 20
-  minutes each, thematically related to the breakout sessions they precede or follow.
-* <span class="slotcat handson">**Breakout sessions**</span> are the core of the workshop. Each
-  session works on one of the [four research directions](index.qmd) in a small group, with the goal
+  minutes each.
+* <span class="slotcat handson">**Breakout sessions**</span> are the core of the workshop. In parallel
+  sessions, small groups work on the [four research directions](index.qmd), with the goal
   of critically assessing progress since the original priority research directions and identifying
   open challenges.
 * <span class="slotcat oneidea">**Presentation of breakout findings**</span> brings the groups back
   together to report their results to all participants.
-* <span class="slotcat open">**Organizational and collaborative slots**</span> — session overview,
+* <span class="slotcat open">**Organisational and collaborative slots**</span> — session overview,
   session alignment, status sync, final result preparation, and the social event — are used to
   coordinate between the groups and to prepare the joint outcome of the workshop.
 
-The findings collected during the breakout sessions form the basis of the joint scientific article
+The findings collected during the breakout sessions form the basis of the [joint scientific article](publication.qmd)
 that will be prepared after the workshop.
