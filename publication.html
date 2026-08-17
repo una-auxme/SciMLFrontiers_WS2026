@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 <p>If you would like to take part in writing the article, get access to the overleaf project, or if you have any questions about the publication, please get in touch:</p>
 <div class="people-grid single">
 <figure class="pkg-card figure">
-<a class="pkg-card-link" href="mailto:Andreas.Hofmann@uni-a.de" aria-label="Send an e-mail to Andreas Hofmann"></a> <img src="assets/hofmann.jpg" alt="Andreas Hofmann" class="portrait-top figure-img">
+<a class="pkg-card-link" href="mailto:andreas.hofmann@uni-a.de" aria-label="Send an e-mail to Andreas Hofmann"></a> <img src="assets/hofmann.jpg" alt="Andreas Hofmann" class="portrait-top figure-img">
 <figcaption>
 <div class="pkg-title">
 Andreas Hofmann
@@ -250,7 +250,7 @@ Feel free to contact me with any questions about the publication.
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/una-auxme\.github\.io\/SciMLFrontiers_WS2026\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

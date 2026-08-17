@@ -183,6 +183,11 @@ Am Technologiezentrum 8<br>
 <h2 class="anchored" data-anchor-id="hinweis-zur-nutzung-künstlicher-intelligenz">Hinweis zur Nutzung Künstlicher Intelligenz</h2>
 <p>Diese Website wurde mit Unterstützung Künstlicher Intelligenz erstellt. Für das Erstellen und Bearbeiten der Seiteninhalte wurde Claude Code (Anthropic) eingesetzt; das Workshop-Logo wurde mit generativer KI erzeugt und ist im Bild entsprechend gekennzeichnet. Alle Inhalte wurden redaktionell geprüft und verantwortet.</p>
 <p><em>This website was created with the support of artificial intelligence. Claude Code (Anthropic) was used to write and edit the page content; the workshop logo was generated with generative AI and is labelled accordingly. All content has been editorially reviewed.</em></p>
+</section>
+<section id="quellen-und-lizenzen" class="level2">
+<h2 class="anchored" data-anchor-id="quellen-und-lizenzen">Quellen und Lizenzen</h2>
+<p>Diese Website basiert auf <a href="https://github.com/trixi-framework/trudi-2026">trudi-2026</a>, veröffentlicht unter der MIT-Lizenz, Copyright © 2026 Gregor Gassner, Michael Schlottke-Lakemper. Der Quellcode dieser Website ist unter <a href="https://github.com/una-auxme/SciMLFrontiers_WS2026">SciMLFrontiers_WS2026</a> verfügbar.</p>
+<p><em>This website is based on <a href="https://github.com/trixi-framework/trudi-2026">trudi-2026</a>, published under the MIT licence, Copyright © 2026 Gregor Gassner, Michael Schlottke-Lakemper. The source code of this website is available at <a href="https://github.com/una-auxme/SciMLFrontiers_WS2026">SciMLFrontiers_WS2026</a>.</em></p>
 
 
 </section>
@@ -261,7 +266,7 @@ Am Technologiezentrum 8<br>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/una-auxme\.github\.io\/SciMLFrontiers_WS2026\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
