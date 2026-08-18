@@ -11,3 +11,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Build tooling and bundled libraries
+
+This website is built with [Quarto](https://quarto.org) (MIT licence, Copyright (c) Posit
+Software, PBC).
+
+The published site includes JavaScript and CSS libraries bundled by Quarto — among them
+Bootstrap, Bootstrap Icons, Popper, clipboard.js, Fuse.js, Tippy.js, Headroom.js and anchor.js —
+each under its own licence. The respective copyright and licence notices are retained in the
+corresponding files under `site_libs/` in the published site.
