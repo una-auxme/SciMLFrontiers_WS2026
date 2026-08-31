@@ -18,7 +18,7 @@ The [foundational 2018 SciML workshop](https://www.osti.gov/biblio/1478744) outl
 anchoring future development around critical pillars such as domain awareness, robustness, and interpretability.
 The SciML landscape has evolved profoundly over the past seven years. Considering these advancements, this workshop, hosted by 
 the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg, convenes researchers from diverse disciplines
-to re-evaluate the original priorities within the context of current technological frontiers. Through expert keynotes, technical presentations, 
+to re-evaluate the original priorities within the context of current technological frontiers. Through an expert keynote, technical presentations, 
 and collaborative breakout sessions, participants will share practical insights and critically analyse current progress and emerging challenges within the field. 
 Our primary objective is to assess the trajectory of the original PRDs and collaboratively shape the future research agenda for SciML.
 The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.

@@ -1,0 +1,51 @@
+---
+title: "Social Programme"
+---
+
+On Tuesday evening, 22 September 2026, the social event takes place at the **Riegele Wirtshaus**,
+the brewery tavern of Brauhaus Riegele in the centre of Augsburg. It starts at 19:30. See the
+[Programme](program.qmd) for the full schedule of the day.
+
+## Address
+[Riegele Wirtshaus](https://www.riegele-wirtshaus.de/)\
+Frölichstraße 26\
+86150 Augsburg\
+Germany
+
+## Getting there
+
+The programme of the day ends at 18:00, which leaves time to freshen up or drop by your hotel before
+the evening event starts at 19:30.
+
+For those who would like to travel together, we will leave from the workshop venue as a group at
+about **19:00**; the exact meeting point will be announced during the workshop. From the venue, take tram line
+**3** towards *Augsburg Hauptbahnhof* from the stop **Innovationspark/LfU** (about a 3-minute walk
+east of Building W) and stay on it to the terminus **Augsburg Hauptbahnhof**. From there the
+Wirtshaus is roughly 250 m away, a three-minute walk.
+
+If you prefer to head to your hotel first, you are of course welcome to make your own way and join us
+directly at the restaurant.
+
+## Brewery tour
+
+If it can be arranged, the evening will open at 19:30 with a guided tour of the Riegele brewery,
+followed by dinner at the Wirtshaus. [Brauhaus Riegele](https://www.riegele.de/) traces its roots
+back to the brewery *Zum Goldenen Ross*, first documented in 1386, and has been run by the Riegele
+family since 1884.
+
+Whether the tour takes place is not yet confirmed; if it does not, we will simply start with dinner
+at 19:30. We will let you know closer to the workshop.
+
+<div class="media-wrapper">
+  <figure class="media-box">
+    <iframe
+      width="425"
+      height="350"
+      src="https://www.openstreetmap.org/export/embed.html?bbox=10.8830698%2C48.3667411%2C10.8861208%2C48.3682671&amp;layer=mapnik&amp;marker=48.3675041%2C10.8845953">
+    </iframe>
+    <figcaption class="media-caption">
+      <a href="https://www.openstreetmap.org/directions?from=&to=48.367504%2C10.884595" target="_blank">Directions (OpenStreetMap)</a> |
+      <a href="https://www.google.com/maps/dir/?api=1&amp;destination=48.367504%2C10.884595" target="_blank">Directions (Google Maps)</a>
+    </figcaption>
+  </figure>
+</div>
