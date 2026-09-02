@@ -16,12 +16,12 @@ See [Venue](venue.qmd) for maps and directions.
 |-------|---------|
 | from 09:30 | *Welcome reception & coffee* |
 | 10:00–10:15 | <span id="day1-opening" class="slot neutral">**Opening & Programme Introduction**</span> |
-| 10:15–11:00 | <span id="day1-keynote" class="slot plenary">**Keynote**<br>Christopher Rackauckas</span> |
+| 10:15–11:00 | <span id="day1-keynote" class="slot plenary">**Keynote: Do I have enough data for SciML? The math of functional identifiability**<br>Christopher Rackauckas</span> |
 | 11:00–11:45 | <span id="day1-track-overview" class="slot open">**Track Overview**</span> |
 | 11:45–12:45 | *Lunch break & track sign-up* |
 | 12:45–14:45 | <span id="day1-breakout-1" class="slot handson">**Breakout Session 1**</span> |
 | 14:45–15:00 | *Coffee break* |
-| 15:00–15:45 | <span id="day1-presentations" class="slot contributed">**2 Presentations**<br>1. Seunghwa, 2. Victor</span> |
+| 15:00–15:45 | <span id="day1-presentations" class="slot contributed">**t.b.d.**<br>Seunghwa<br><br>**t.b.d.** <br>Victor Michel-Dansac</span> |
 | 15:45–17:15 | <span id="day1-breakout-2" class="slot handson">**Breakout Session 2**</span> |
 | 17:15–17:30 | *Coffee break* |
 | 17:30–18:00 | <span id="day1-status-sync" class="slot open">**Status Sync**</span> |
@@ -35,10 +35,10 @@ See [Venue](venue.qmd) for maps and directions.
 |-------|---------|
 | 08:00–08:15 | *Welcome reception & coffee* |
 | 08:15–08:30 | <span id="day2-opening" class="slot neutral">**Opening Remarks & Day 2 Objectives**</span> |
-| 08:30–09:15 | <span id="day2-presentations-1" class="slot contributed">**2 Presentations**<br>1. Sophia, 2. Dirk</span> |
+| 08:30–09:15 | <span id="day2-presentations-1" class="slot contributed">**Improving Numerical Schemes for Hyperbolic PDEs with Machine Learning**<br>Sophia Horak<br><br>**t.b.d.** <br>Dirk</span> |
 | 09:15–10:15 | <span id="day2-breakout-3" class="slot handson">**Breakout Session 3**</span> |
 | 10:15–10:30 | *Coffee break* |
-| 10:30–11:15 | <span id="day2-presentations-2" class="slot contributed">**2 Presentations**<br>1. Mohamed, 2. Ioan-Daniel</span> |
+| 10:30–11:15 | <span id="day2-presentations-2" class="slot contributed">**t.b.d.** <br>Mohamed<br><br>**A ML usecase in Smoothed Particle Hydrodynamics** <br>Ioan-Daniel Crăciun</span> |
 | 11:15–12:15 | <span id="day2-breakout-4" class="slot handson">**Breakout Session 4**</span> |
 | 12:15–13:00 | *Lunch break* |
 | 13:00–13:45 | <span id="day2-result-prep" class="slot open">**Final Result Preparation**</span> |

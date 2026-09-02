@@ -67,8 +67,8 @@ The event is organised by Prof. Lars Mikelsons, Prof. Michael Schlottke-Lakemper
 
 
 <div style="display:flex; justify-content:center; align-items:center; margin-top:2em;">
-  <a href="https://www.uni-augsburg.de/en/" target="_blank" rel="noopener"
-     aria-label="University of Augsburg website"><img src="assets/UNIA.png"
-       alt="University of Augsburg logo"
-       style="height:75px; margin-right:50px;"></a>
+  <a href="https://www.uni-augsburg.de/en/forschung/einrichtungen/institute/caaps/" target="_blank" rel="noopener"
+     aria-label="University of Augsburg website"><img src="assets/UniA_Logo_CAAPS_EN.png"
+       alt="University of Augsburg - CAAPS logo"
+       style="height:200px; margin-right:50px;"></a>
 </div>
