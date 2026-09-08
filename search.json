@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publication",
-    "section": "",
-    "text": "The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nThe article will be written collaboratively after the workshop and will build on the results of the four breakout sessions. All participants are invited to contribute as authors.\nIf you would like to take part in writing the article, get access to the overleaf project, or if you have any questions about the publication, please get in touch:\n\n\n \n\n\nAndreas Hofmann\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\nFeel free to contact me with any questions about the publication."
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Programme",
-    "section": "",
-    "text": "All scheduled talks and plenary sessions will be held in lecture hall W1019. Four nearby seminar rooms (W1020, W1021, W1023 and W1024) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks. If you need a quiet place for a call or a meeting during the workshop, a separate room will be available for that purpose.\nSee Venue for maps and directions."
-  },
-  {
-    "objectID": "program.html#tuesday-22-september-2026",
-    "href": "program.html#tuesday-22-september-2026",
-    "title": "Programme",
-    "section": "Tuesday, 22 September 2026",
-    "text": "Tuesday, 22 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\nfrom 09:30\nWelcome reception & coffee\n\n\n10:00–10:15\nOpening & Programme Introduction\n\n\n10:15–11:00\nKeynote: Do I have enough data for SciML? The math of functional identifiabilityChristopher Rackauckas\n\n\n11:00–11:45\nTrack Overview\n\n\n11:45–12:45\nLunch break & track sign-up\n\n\n12:45–14:45\nBreakout Session 1\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nt.b.d.Seunghwat.b.d. Victor Michel-Dansac\n\n\n15:45–17:15\nBreakout Session 2\n\n\n17:15–17:30\nCoffee break\n\n\n17:30–18:00\nStatus Sync\n\n\nfrom 19:30\nEvening event / dinnerRiegele Wirtshaus (see Social Programme)"
-  },
-  {
-    "objectID": "program.html#wednesday-23-september-2026",
-    "href": "program.html#wednesday-23-september-2026",
-    "title": "Programme",
-    "section": "Wednesday, 23 September 2026",
-    "text": "Wednesday, 23 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\n08:00–08:15\nWelcome reception & coffee\n\n\n08:15–08:30\nOpening Remarks & Day 2 Objectives\n\n\n08:30–09:15\nImproving Numerical Schemes for Hyperbolic PDEs with Machine LearningSophia Horakt.b.d. Dirk\n\n\n09:15–10:15\nBreakout Session 3\n\n\n10:15–10:30\nCoffee break\n\n\n10:30–11:15\nt.b.d. MohamedA ML usecase in Smoothed Particle Hydrodynamics Ioan-Daniel Crăciun\n\n\n11:15–12:15\nBreakout Session 4\n\n\n12:15–13:00\nLunch break\n\n\n13:00–13:45\nFinal Result Preparation\n\n\n13:45–14:45\nPresentation of Breakout Findings\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nStrategic Synthesis & Workshop Closing"
-  },
-  {
-    "objectID": "program.html#session-types",
-    "href": "program.html#session-types",
-    "title": "Programme",
-    "section": "Session types",
-    "text": "Session types\nThe programme combines an invited keynote, contributed presentations, and collaborative breakout sessions:\n\nThe Keynote has a 45-minute slot and sets the stage for the workshop.\nPresentations are contributed talks of 15 minutes plus 5 minutes for questions.\nBreakout sessions are the core of the workshop. They run in four parallel tracks, one per research direction, with the goal of critically assessing progress since the original priority research directions and identifying open challenges. The track overview introduces the four tracks, and participants sign up for the track they would like to join.\nPresentation of breakout findings brings the groups back together to report their results to all participants.\nOrganisational and collaborative slots — track overview, track sign-up, status sync, final result preparation, and the evening event — are used to coordinate between the groups and to prepare the joint outcome of the workshop.\n\nThe findings collected during the breakout sessions form the basis of the joint scientific article that will be prepared after the workshop."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SciML Frontiers: Progress, Evolution, and Future Directions — Workshop 2026",
-    "section": "",
-    "text": "22–23 September 2026 • Augsburg, Germany\n\n\n\nScientific Machine Learning (SciML), the fusion of scientific computing and machine learning algorithms, has proven to be a transformative force in academia and is rapidly establishing a firm foothold in industrial applications. The foundational 2018 SciML workshop outlined six priority research directions (PRDs) for the nascent field of SciML, anchoring future development around critical pillars such as domain awareness, robustness, and interpretability. The SciML landscape has evolved profoundly over the past seven years. Considering these advancements, this workshop, hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg, convenes researchers from diverse disciplines to re-evaluate the original priorities within the context of current technological frontiers. Through an expert keynote, technical presentations, and collaborative breakout sessions, participants will share practical insights and critically analyse current progress and emerging challenges within the field. Our primary objective is to assess the trajectory of the original PRDs and collaboratively shape the future research agenda for SciML. The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nWe have synthesised the original six PRDs into four focused research directions, which participants will explore deeply during the breakout sessions.\n\n\n\n\n\nNumerical Foundation of SciML\n\n\nDiscretisation, Stability and Convergence\n\n\n\n\n\n\n\nBeyond prediction\n\n\nControl, Optimisation and Application\n\n\n\n\n\n\n\nAutomation and Scalability in SciML\n\n\nFrom Prototype to Production Scale\n\n\n\n\n\n\n\nDomain Awareness and Interpretability\n\n\nPhysical Priors, Explainability and Trust\n\n\n\n\nThe event is organised by Prof. Lars Mikelsons, Prof. Michael Schlottke-Lakemper and Andreas Hofmann (see Organisers), and is hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg."
-  },
-  {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organisers",
-    "section": "",
-    "text": "Prof. Lars Mikelsons\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\n\n\n \n\n\nProf. Michael Schlottke-Lakemper\n\n\nHigh-Performance Scientific ComputingUniversity of Augsburg\n\n\n\n\n \n\n\nAndreas Hofmann\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\nFeel free to contact me with any questions about the workshop."
-  },
-  {
     "objectID": "social.html",
     "href": "social.html",
     "title": "Social Programme",
@@ -75,6 +26,27 @@
     "title": "Social Programme",
     "section": "Brewery tour",
     "text": "Brewery tour\nIf it can be arranged, the evening will open at 19:30 with a guided tour of the Riegele brewery, followed by dinner at the Wirtshaus. Brauhaus Riegele traces its roots back to the brewery Zum Goldenen Ross, first documented in 1386, and has been run by the Riegele family since 1884.\nWhether the tour takes place is not yet confirmed; if it does not, we will simply start with dinner at 19:30. We will let you know closer to the workshop.\n\n\n\n\n\nDirections (OpenStreetMap) | Directions (Google Maps)"
+  },
+  {
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "Building W, University of Augsburg\nThe SciML Frontiers 2026 workshop will take place at building W of the University of Augsburg, Germany.\nAll scheduled talks and plenary sessions will be held in lecture hall W1019. Four nearby seminar rooms (W1020, W1021, W1023 and W1024) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks. If you need a quiet place for a call or a meeting during the workshop, a separate room will be available for that purpose."
+  },
+  {
+    "objectID": "venue.html#address",
+    "href": "venue.html#address",
+    "title": "Venue",
+    "section": "Address",
+    "text": "Address\nUniversity of Augsburg\nDivision of Applied Informatics\nBuilding W\nAm Technologiezentrum 8\n86159 Augsburg\nGermany\n\n\n\n\n\nDirections (OpenStreetMap) | Directions (Google Maps)"
+  },
+  {
+    "objectID": "venue.html#evening-activity",
+    "href": "venue.html#evening-activity",
+    "title": "Venue",
+    "section": "Evening activity",
+    "text": "Evening activity\nOn Tuesday evening, from 19:30, the social event takes place at the Riegele Wirtshaus in Augsburg. See the Social Programme for the address, directions and the planned brewery tour."
   },
   {
     "objectID": "imprint.html",
@@ -126,24 +98,52 @@
     "text": "Quellen und Lizenzen\nDiese Website basiert auf trudi-2026, veröffentlicht unter der MIT-Lizenz, Copyright © 2026 Gregor Gassner, Michael Schlottke-Lakemper. Der Quellcode dieser Website ist unter SciMLFrontiers_WS2026 verfügbar.\nThis website is based on trudi-2026, published under the MIT licence, Copyright © 2026 Gregor Gassner, Michael Schlottke-Lakemper. The source code of this website is available at SciMLFrontiers_WS2026."
   },
   {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venue",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SciML Frontiers: Progress, Evolution, and Future Directions — Workshop 2026",
     "section": "",
-    "text": "Building W, University of Augsburg\nThe SciML Frontiers 2026 workshop will take place at building W of the University of Augsburg, Germany.\nAll scheduled talks and plenary sessions will be held in lecture hall W1019. Four nearby seminar rooms (W1020, W1021, W1023 and W1024) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks. If you need a quiet place for a call or a meeting during the workshop, a separate room will be available for that purpose."
+    "text": "22–23 September 2026 • Augsburg, Germany\n\n\n\nScientific Machine Learning (SciML), the fusion of scientific computing and machine learning algorithms, has proven to be a transformative force in academia and is rapidly establishing a firm foothold in industrial applications. The foundational 2018 SciML workshop outlined six priority research directions (PRDs) for the nascent field of SciML, anchoring future development around critical pillars such as domain awareness, robustness, and interpretability. The SciML landscape has evolved profoundly over the past seven years. Considering these advancements, this workshop, hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg, convenes researchers from diverse disciplines to re-evaluate the original priorities within the context of current technological frontiers. Through an expert keynote, technical presentations, and collaborative breakout sessions, participants will share practical insights and critically analyse current progress and emerging challenges within the field. Our primary objective is to assess the trajectory of the original PRDs and collaboratively shape the future research agenda for SciML. The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nWe have synthesised the original six PRDs into four focused research directions, which participants will explore deeply during the breakout sessions.\n\n\n\n\n\nNumerical Foundation of SciML\n\n\nDiscretisation, Stability and Convergence\n\n\n\n\n\n\n\nBeyond prediction\n\n\nControl, Optimisation and Application\n\n\n\n\n\n\n\nAutomation and Scalability in SciML\n\n\nFrom Prototype to Production Scale\n\n\n\n\n\n\n\nDomain Awareness and Interpretability\n\n\nPhysical Priors, Explainability and Trust\n\n\n\n\nThe event is organised by Prof. Lars Mikelsons, Prof. Michael Schlottke-Lakemper and Andreas Hofmann (see Organisers), and is hosted by the Centre for Advanced Analytics and Predictive Sciences at the University of Augsburg."
   },
   {
-    "objectID": "venue.html#address",
-    "href": "venue.html#address",
-    "title": "Venue",
-    "section": "Address",
-    "text": "Address\nUniversity of Augsburg\nDivision of Applied Informatics\nBuilding W\nAm Technologiezentrum 8\n86159 Augsburg\nGermany\n\n\n\n\n\nDirections (OpenStreetMap) | Directions (Google Maps)"
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Programme",
+    "section": "",
+    "text": "All scheduled talks and plenary sessions will be held in lecture hall W1019. Four nearby seminar rooms (W1020, W1021, W1023 and W1024) will host the breakout sessions. The foyer of Building W will serve as the catering area for lunch and coffee breaks. If you need a quiet place for a call or a meeting during the workshop, a separate room will be available for that purpose.\nSee Venue for maps and directions."
   },
   {
-    "objectID": "venue.html#evening-activity",
-    "href": "venue.html#evening-activity",
-    "title": "Venue",
-    "section": "Evening activity",
-    "text": "Evening activity\nOn Tuesday evening, from 19:30, the social event takes place at the Riegele Wirtshaus in Augsburg. See the Social Programme for the address, directions and the planned brewery tour."
+    "objectID": "program.html#tuesday-22-september-2026",
+    "href": "program.html#tuesday-22-september-2026",
+    "title": "Programme",
+    "section": "Tuesday, 22 September 2026",
+    "text": "Tuesday, 22 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\nfrom 09:30\nWelcome reception & coffee\n\n\n10:00–10:15\nOpening & Programme Introduction\n\n\n10:15–11:00\nKeynote: Do I have enough data for SciML? The math of functional identifiabilityChristopher Rackauckas\n\n\n11:00–11:45\nTrack Overview\n\n\n11:45–12:45\nLunch break & track sign-up\n\n\n12:45–14:45\nBreakout Session 1\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nt.b.d.Philipp Lechnert.b.d. Victor Michel-Dansac\n\n\n15:45–17:15\nBreakout Session 2\n\n\n17:15–17:30\nCoffee break\n\n\n17:30–18:00\nStatus Sync\n\n\nfrom 19:30\nEvening event / dinnert.b.d."
+  },
+  {
+    "objectID": "program.html#wednesday-23-september-2026",
+    "href": "program.html#wednesday-23-september-2026",
+    "title": "Programme",
+    "section": "Wednesday, 23 September 2026",
+    "text": "Wednesday, 23 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\n08:00–08:15\nWelcome reception & coffee\n\n\n08:15–08:30\nOpening Remarks & Day 2 Objectives\n\n\n08:30–09:15\nImproving Numerical Schemes for Hyperbolic PDEs with Machine LearningSophia Horakt.b.d. Dirk\n\n\n09:15–10:15\nBreakout Session 3\n\n\n10:15–10:30\nCoffee break\n\n\n10:30–11:15\nt.b.d. MohamedA ML usecase in Smoothed Particle Hydrodynamics Ioan-Daniel Crăciun\n\n\n11:15–12:15\nBreakout Session 4\n\n\n12:15–13:00\nLunch break\n\n\n13:00–13:45\nFinal Result Preparation\n\n\n13:45–14:45\nPresentation of Breakout Findings\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nStrategic Synthesis & Workshop Closing"
+  },
+  {
+    "objectID": "program.html#session-types",
+    "href": "program.html#session-types",
+    "title": "Programme",
+    "section": "Session types",
+    "text": "Session types\nThe programme combines an invited keynote, contributed presentations, and collaborative breakout sessions:\n\nThe Keynote has a 45-minute slot and sets the stage for the workshop.\nPresentations are contributed talks of 15 minutes plus 5 minutes for questions.\nBreakout sessions are the core of the workshop. They run in four parallel tracks, one per research direction, with the goal of critically assessing progress since the original priority research directions and identifying open challenges. The track overview introduces the four tracks, and participants sign up for the track they would like to join.\nPresentation of breakout findings brings the groups back together to report their results to all participants.\nOrganisational and collaborative slots — track overview, track sign-up, status sync, final result preparation, and the evening event — are used to coordinate between the groups and to prepare the joint outcome of the workshop.\n\nThe findings collected during the breakout sessions form the basis of the joint scientific article that will be prepared after the workshop."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "The insights generated during this two-day event will be synthesised into a comprehensive scientific article, targeting high-impact journals such as Nature Machine Intelligence or Neurocomputing.\nThe article will be written collaboratively after the workshop and will build on the results of the four breakout sessions. All participants are invited to contribute as authors.\nIf you would like to take part in writing the article, get access to the overleaf project, or if you have any questions about the publication, please get in touch:\n\n\n \n\n\nAndreas Hofmann\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\nFeel free to contact me with any questions about the publication."
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organisers",
+    "section": "",
+    "text": "Prof. Lars Mikelsons\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\n\n\n \n\n\nProf. Michael Schlottke-Lakemper\n\n\nHigh-Performance Scientific ComputingUniversity of Augsburg\n\n\n\n\n \n\n\nAndreas Hofmann\n\n\nChair of MechatronicsUniversity of Augsburg\n\n\nFeel free to contact me with any questions about the workshop."
   }
 ]
