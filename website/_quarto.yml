@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - program.qmd
+      - venue.qmd
       - publication.qmd
       - organizers.qmd
   page-footer:

@@ -39,7 +39,3 @@ Germany
     </figcaption>
   </figure>
 </div>
-
-## Evening activity
-On Tuesday evening, from 19:30, the social event takes place at the Riegele Wirtshaus in Augsburg.
-See the [Social Programme](social.qmd) for the address, directions and the planned brewery tour.
