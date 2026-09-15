@@ -4,7 +4,7 @@
     "href": "social.html",
     "title": "Social Programme",
     "section": "",
-    "text": "On Tuesday evening, 22 September 2026, the social event takes place at the Riegele Wirtshaus, the brewery tavern of Brauhaus Riegele in the centre of Augsburg. It starts at 19:30. See the Programme for the full schedule of the day."
+    "text": "On Tuesday evening, 22 September 2026, the social event takes place at the Riegele Wirtshaus, the brewery tavern of Brauhaus Riegele in the centre of Augsburg. It starts at 18:30. See the Programme for the full schedule of the day."
   },
   {
     "objectID": "social.html#address",
@@ -18,14 +18,14 @@
     "href": "social.html#getting-there",
     "title": "Social Programme",
     "section": "Getting there",
-    "text": "Getting there\nThe programme of the day ends at 18:00, which leaves time to freshen up or drop by your hotel before the evening event starts at 19:30.\nFor those who would like to travel together, we will leave from the workshop venue as a group at about 19:00; the exact meeting point will be announced during the workshop. From the venue, take tram line 3 towards Augsburg Hauptbahnhof from the stop Innovationspark/LfU (about a 3-minute walk east of Building W) and stay on it to the terminus Augsburg Hauptbahnhof. From there the Wirtshaus is roughly 250 m away, a three-minute walk.\nIf you prefer to head to your hotel first, you are of course welcome to make your own way and join us directly at the restaurant."
+    "text": "Getting there\nThe programme of the day ends at 18:00 and the evening event starts at 18:30, so we will head to the restaurant directly after the last session.\nWe will leave from the workshop venue as a group at about 18:00. From the venue, take tram line 3 towards Augsburg Hauptbahnhof from the stop Innovationspark/LfU (about a 3-minute walk east of Building W) and stay on it to the terminus Augsburg Hauptbahnhof. From there the Wirtshaus is roughly 250 m away, a three-minute walk."
   },
   {
     "objectID": "social.html#brewery-tour",
     "href": "social.html#brewery-tour",
     "title": "Social Programme",
     "section": "Brewery tour",
-    "text": "Brewery tour\nIf it can be arranged, the evening will open at 19:30 with a guided tour of the Riegele brewery, followed by dinner at the Wirtshaus. Brauhaus Riegele traces its roots back to the brewery Zum Goldenen Ross, first documented in 1386, and has been run by the Riegele family since 1884.\nWhether the tour takes place is not yet confirmed; if it does not, we will simply start with dinner at 19:30. We will let you know closer to the workshop.\n\n\n\n\n\nDirections (OpenStreetMap) | Directions (Google Maps)"
+    "text": "Brewery tour\nThe evening will open at 18:30 with a guided tour of the Riegele brewery, followed by dinner at the Wirtshaus. Brauhaus Riegele traces its roots back to the brewery Zum Goldenen Ross, first documented in 1386, and has been run by the Riegele family since 1884.\n\n\n\n\n\nDirections (OpenStreetMap) | Directions (Google Maps)"
   },
   {
     "objectID": "venue.html",
@@ -109,14 +109,14 @@
     "href": "program.html#tuesday-22-september-2026",
     "title": "Programme",
     "section": "Tuesday, 22 September 2026",
-    "text": "Tuesday, 22 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\nfrom 09:30\nWelcome reception & coffee\n\n\n10:00–11:00\nPublic Keynote: Do I have enough data for SciML? The math of functional identifiabilityChristopher Rackauckas\n\n\n11:00–11:45\nWorkshop Opening & Track Overview\n\n\n11:45–12:45\nLunch break & track sign-up\n\n\n12:45–14:45\nBreakout Session 1\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nOpportunities and Challenges of SciML in the Transfer to Production TechnologyPhilipp Lechnert.b.d. Victor Michel-Dansac\n\n\n15:45–17:15\nBreakout Session 2\n\n\n17:15–17:30\nCoffee break\n\n\n17:30–18:00\nStatus Sync\n\n\nfrom 19:30\nEvening event / dinnert.b.d."
+    "text": "Tuesday, 22 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\nfrom 09:30\nWelcome reception & coffee\n\n\n10:00–11:00\nPublic Keynote: Do I have enough data for SciML? The math of functional identifiabilityChristopher Rackauckas\n\n\n11:00–11:45\nWorkshop Opening & Track Overview\n\n\n11:45–12:45\nLunch break & track sign-up\n\n\n12:45–14:45\nBreakout Session 1\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nOpportunities and Challenges of SciML in the Transfer to Production TechnologyPhilipp Lechnert.b.d. Victor Michel-Dansac\n\n\n15:45–17:15\nBreakout Session 2\n\n\n17:15–17:30\nCoffee break\n\n\n17:30–18:00\nStatus Sync\n\n\nfrom 18:30\nBrewery tour and Dinner at Riegele Wirtshaussee Social Programme"
   },
   {
     "objectID": "program.html#wednesday-23-september-2026",
     "href": "program.html#wednesday-23-september-2026",
     "title": "Programme",
     "section": "Wednesday, 23 September 2026",
-    "text": "Wednesday, 23 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\n08:00–08:15\nWelcome reception & coffee\n\n\n08:15–08:30\nOpening Remarks & Day 2 Objectives\n\n\n08:30–09:15\nImproving Numerical Schemes for Hyperbolic PDEs with Machine LearningSophia Horakt.b.d. Dirk\n\n\n09:15–10:15\nBreakout Session 3\n\n\n10:15–10:30\nCoffee break\n\n\n10:30–11:15\nt.b.d. MohamedAn ML usecase in Smoothed Particle Hydrodynamics Ioan-Daniel Crăciun\n\n\n11:15–12:15\nBreakout Session 4\n\n\n12:15–13:00\nLunch break\n\n\n13:00–13:45\nFinal Result Preparation\n\n\n13:45–14:45\nPresentation of Breakout Findings\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nStrategic Synthesis & Workshop Closing"
+    "text": "Wednesday, 23 September 2026\n\n\n\n\n\n\n\nTime\nProgramme\n\n\n\n\n08:00–08:15\nWelcome reception & coffee\n\n\n08:15–08:30\nOpening Remarks & Day 2 Objectives\n\n\n08:30–09:15\nImproving Numerical Schemes for Hyperbolic PDEs with Machine LearningSophia HorakFrom models to decisions: open questions that energy systems put to SciML and how a new European doctoral network intends to answer them. Mohamed Tahar Mabrouk\n\n\n09:15–10:15\nBreakout Session 3\n\n\n10:15–10:30\nCoffee break\n\n\n10:30–10:50\nAn ML usecase in Smoothed Particle Hydrodynamics Ioan-Daniel Crăciun\n\n\n10:50–12:15\nBreakout Session 4\n\n\n12:15–13:00\nLunch break\n\n\n13:00–13:45\nFinal Result Preparation\n\n\n13:45–14:45\nPresentation of Breakout Findings\n\n\n14:45–15:00\nCoffee break\n\n\n15:00–15:45\nStrategic Synthesis & Workshop Closing"
   },
   {
     "objectID": "program.html#session-types",
