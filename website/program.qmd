@@ -24,7 +24,7 @@ See [Venue](venue.qmd) for maps and directions.
 | 15:45–17:15 | <span id="day1-breakout-2" class="slot handson">**Breakout Session 2**</span> |
 | 17:15–17:30 | *Coffee break* |
 | 17:30–18:00 | <span id="day1-status-sync" class="slot open">**Status Sync**</span> |
-| from 19:30 | <span id="day1-social" class="slot open">**Evening event / dinner**<br>t.b.d.</span> |
+| from 18:30 | <span id="day1-social" class="slot open">**Brewery tour and Dinner at Riegele Wirtshaus**<br>see [Social Programme](social.qmd)</span> |
 
 : {tbl-colwidths="[18,82]"}
 
@@ -34,16 +34,16 @@ See [Venue](venue.qmd) for maps and directions.
 |-------|---------|
 | 08:00–08:15 | *Welcome reception & coffee* |
 | 08:15–08:30 | <span id="day2-opening" class="slot neutral">**Opening Remarks & Day 2 Objectives**</span> |
-| 08:30–09:15 | <span id="day2-presentations-1" class="slot contributed">**Improving Numerical Schemes for Hyperbolic PDEs with Machine Learning**<br>Sophia Horak<br><br>**t.b.d.** <br>Dirk</span> |
+| 08:30–09:15 | <span id="day2-presentations-1" class="slot contributed">**Improving Numerical Schemes for Hyperbolic PDEs with Machine Learning**<br>Sophia Horak<br><br>**From models to decisions: open questions that energy systems put to SciML and how a new European doctoral network intends to answer them.** <br>Mohamed Tahar Mabrouk</span> |
 | 09:15–10:15 | <span id="day2-breakout-3" class="slot handson">**Breakout Session 3**</span> |
 | 10:15–10:30 | *Coffee break* |
-| 10:30–11:15 | <span id="day2-presentations-2" class="slot contributed">**t.b.d.** <br>Mohamed<br><br>**An ML usecase in Smoothed Particle Hydrodynamics** <br>Ioan-Daniel Crăciun</span> |
-| 11:15–12:15 | <span id="day2-breakout-4" class="slot handson">**Breakout Session 4**</span> |
+| 10:30–10:50 | <span id="day2-presentations-2" class="slot contributed">**An ML usecase in Smoothed Particle Hydrodynamics** <br>Ioan-Daniel Crăciun</span> |
+| 10:50–12:15 | <span id="day2-breakout-4" class="slot handson">**Breakout Session 4**</span> |
 | 12:15–13:00 | *Lunch break* |
 | 13:00–13:45 | <span id="day2-result-prep" class="slot open">**Final Result Preparation**</span> |
 | 13:45–14:45 | <span id="day2-findings" class="slot oneidea">**Presentation of Breakout Findings**</span> |
 | 14:45–15:00 | *Coffee break* |
-| 15:00–15:45 | <span id="day2-closing" class="slot neutral">**Strategic Synthesis & Workshop Closing**</span> |
+| 15:00–15:45 | <span id="day2-closing" class="slot open">**Strategic Synthesis & Workshop Closing**</span> |
 
 : {tbl-colwidths="[18,82]"}
 
