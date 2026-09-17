@@ -15,16 +15,15 @@ See [Venue](venue.qmd) for maps and directions.
 | Time  | Programme |
 |-------|---------|
 | from 09:30 | *Welcome reception & coffee* |
-| 10:00–10:15 | <span id="day1-welcome-addresses" class="slot neutral">**Welcome Addresses**<br>Workshop organisers - Prof. Lars Mikelsons <br>CAAPS - Dr. Ursula Weiß</span> |
-| 10:15–11:15 | <span id="day1-keynote" class="slot plenary">**Public Keynote: Do I have enough data for SciML? The math of functional identifiability**<br>Dr. Christopher Rackauckas (MIT)</span> |
-| 11:15–12:00 | <span id="day1-track-overview" class="slot open">**Workshop Opening & Track Overview**</span> |
+| 10:00–11:15 | <span id="day1-keynote" class="slot plenary">**Welcome Address**<br>Dr. Ursula Weiß (CAAPS)<br><br>**Public Keynote: Do I have enough data for SciML? The math of functional identifiability**<br>Dr. Christopher Rackauckas (MIT)<br><br>*Session chair: Prof. Lars Mikelsons*</span> |
+| 11:15–12:00 | <span id="day1-track-overview" class="slot open">**Workshop Opening & Track Overview**<br>Prof. Michael Schlottke-Lakemper, Prof. Lars Mikelsons</span> |
 | 12:00–12:45 | *Lunch break & track sign-up* |
-| 12:45–14:45 | <span id="day1-breakout-1" class="slot handson">**Breakout Session 1**</span> |
+| 12:45–14:45 | <span id="day1-breakout-1" class="slot handson">**Breakout Session 1**<br>Track 1: Numerical Foundation of SciML (W1020)<br>*Track host: Dr. Tobias Thummerer*<br><br>Track 2: Beyond Prediction (W1021)<br>*Track host: Julius Aka*<br><br>Track 3: Automation and Scalability in SciML (W1023)<br>*Track hosts: Julian Trommer, Dr. Damian Boborzi*<br><br>Track 4: Domain Awareness and Interpretability (W1024)<br>*Track hosts: Valentin Höpfner, Benjamin Schaab*</span> |
 | 14:45–15:00 | *Coffee break* |
-| 15:00–15:45 | <span id="day1-presentations" class="slot contributed">**Opportunities and Challenges of SciML in the Transfer to Production Technology**<br>Prof. Philipp Lechner<br><br>**Linking SciML and classical numerical methods through nonlinear approximation spaces** <br>Dr. Victor Michel-Dansac</span> |
-| 15:45–17:15 | <span id="day1-breakout-2" class="slot handson">**Breakout Session 2**</span> |
+| 15:00–15:45 | <span id="day1-presentations" class="slot contributed">**Opportunities and Challenges of SciML in the Transfer to Production Technology**<br>Prof. Philipp Lechner (University of Augsburg)<br><br>**Linking SciML and classical numerical methods through nonlinear approximation spaces** <br>Dr. Victor Michel-Dansac (Inria)<br><br>*Session chair: Andreas Hofmann*</span> |
+| 15:45–17:15 | <span id="day1-breakout-2" class="slot handson">**Breakout Session 2**<br>Track 1: Numerical Foundation of SciML (W1020)<br>Track 2: Beyond Prediction (W1021)<br>Track 3: Automation and Scalability in SciML (W1023)<br>Track 4: Domain Awareness and Interpretability (W1024)</span> |
 | 17:15–17:30 | *Coffee break* |
-| 17:30–18:00 | <span id="day1-status-sync" class="slot open">**Status Sync**</span> |
+| 17:30–18:00 | <span id="day1-status-sync" class="slot open">**Status Sync**<br>Andreas Hofmann</span> |
 | from 18:00 | <span id="day1-social" class="slot open">**Social Event** with Brewery tour and Dinner at Riegele Wirtshaus<br>see [Social Programme](social.qmd)</span> |
 
 : {tbl-colwidths="[18,82]"}
@@ -34,17 +33,17 @@ See [Venue](venue.qmd) for maps and directions.
 | Time  | Programme |
 |-------|---------|
 | 08:00–08:15 | *Welcome reception & coffee* |
-| 08:15–08:30 | <span id="day2-opening" class="slot neutral">**Opening Remarks & Day 2 Objectives**</span> |
-| 08:30–09:15 | <span id="day2-presentations-1" class="slot contributed">**Improving Numerical Schemes for Hyperbolic PDEs with Machine Learning**<br>Sophia Horak<br><br>**From models to decisions: open questions that energy systems put to SciML and how a new European doctoral network intends to answer them.** <br>Assoc. Prof. Mohamed Tahar Mabrouk</span> |
-| 09:15–10:15 | <span id="day2-breakout-3" class="slot handson">**Breakout Session 3**</span> |
+| 08:15–08:30 | <span id="day2-opening" class="slot neutral">**Opening Remarks & Day 2 Objectives**<br>Prof. Michael Schlottke-Lakemper</span> |
+| 08:30–09:15 | <span id="day2-presentations-1" class="slot contributed">**Improving Numerical Schemes for Hyperbolic PDEs with Machine Learning**<br>Sophia Horak (University of Cologne)<br><br>**From models to decisions: open questions that energy systems put to SciML and how a new European doctoral network intends to answer them.** <br>Assoc. Prof. Mohamed Tahar Mabrouk (IMT Atlantique)<br><br>*Session chair: Prof. Michael Schlottke-Lakemper*</span> |
+| 09:15–10:15 | <span id="day2-breakout-3" class="slot handson">**Breakout Session 3**<br>Track 1: Numerical Foundation of SciML (W1020)<br>Track 2: Beyond Prediction (W1021)<br>Track 3: Automation and Scalability in SciML (W1023)<br>Track 4: Domain Awareness and Interpretability (W1024)</span> |
 | 10:15–10:30 | *Coffee break* |
-| 10:30–10:50 | <span id="day2-presentations-2" class="slot contributed">**An ML usecase in Smoothed Particle Hydrodynamics** <br>Ioan-Daniel Crăciun</span> |
-| 10:50–12:15 | <span id="day2-breakout-4" class="slot handson">**Breakout Session 4**</span> |
+| 10:30–10:50 | <span id="day2-presentations-2" class="slot contributed">**An ML usecase in Smoothed Particle Hydrodynamics** <br>Ioan-Daniel Crăciun (Technical University of Munich)<br><br>*Session chair: Prof. Lars Mikelsons*</span> |
+| 10:50–12:15 | <span id="day2-breakout-4" class="slot handson">**Breakout Session 4**<br>Track 1: Numerical Foundation of SciML (W1020)<br>Track 2: Beyond Prediction (W1021)<br>Track 3: Automation and Scalability in SciML (W1023)<br>Track 4: Domain Awareness and Interpretability (W1024)</span> |
 | 12:15–13:00 | *Lunch break* |
-| 13:00–13:45 | <span id="day2-result-prep" class="slot handson">**Final Result Preparation**</span> |
-| 13:45–14:45 | <span id="day2-findings" class="slot oneidea">**Presentation of Breakout Findings**</span> |
+| 13:00–13:45 | <span id="day2-result-prep" class="slot handson">**Final Result Preparation**<br>Track 1: Numerical Foundation of SciML (W1020)<br>Track 2: Beyond Prediction (W1021)<br>Track 3: Automation and Scalability in SciML (W1023)<br>Track 4: Domain Awareness and Interpretability (W1024)</span> |
+| 13:45–14:45 | <span id="day2-findings" class="slot oneidea">**Presentation of Breakout Findings**<br>Andreas Hofmann</span> |
 | 14:45–15:00 | *Coffee break* |
-| 15:00–15:45 | <span id="day2-closing" class="slot open">**Strategic Synthesis & Workshop Closing**</span> |
+| 15:00–15:45 | <span id="day2-closing" class="slot open">**Strategic Synthesis & Workshop Closing**<br>Prof. Lars Mikelsons, Prof. Michael Schlottke-Lakemper</span> |
 
 : {tbl-colwidths="[18,82]"}
 
